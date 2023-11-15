@@ -1,0 +1,185 @@
+{
+    "m_SelectedDeviceId": "1WMHH845QT1184",
+    "m_SelectedPackage": {
+        "deviceId": "1WMHH845QT1184",
+        "name": "com.com.velorexe.ScrewHaptics",
+        "processId": 26421,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "BH902JA28Y",
+            "name": "com.com.velorexe.UnityBluetoothLowEnergy",
+            "processId": 21045,
+            "exited": true
+        },
+        {
+            "deviceId": "BH902JA28Y",
+            "name": "com.com.velorexe.UnityBluetoothLowEnergy",
+            "processId": 21317,
+            "exited": true
+        },
+        {
+            "deviceId": "BH902JA28Y",
+            "name": "com.com.velorexe.UnityBluetoothLowEnergy",
+            "processId": 22088,
+            "exited": true
+        },
+        {
+            "deviceId": "BH902JA28Y",
+            "name": "com.com.velorexe.UnityBluetoothLowEnergy",
+            "processId": 25288,
+            "exited": true
+        },
+        {
+            "deviceId": "BH902JA28Y",
+            "name": "com.com.velorexe.UnityBluetoothLowEnergy",
+            "processId": 25546,
+            "exited": true
+        },
+        {
+            "deviceId": "BH902JA28Y",
+            "name": "com.com.velorexe.UnityBluetoothLowEnergy",
+            "processId": 25742,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 1312,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.oculus.shellenv",
+            "processId": 2077,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 6236,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 7251,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 9330,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 10584,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 12791,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 14133,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 15520,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 16727,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 22736,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 24175,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 25350,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH845QT1184",
+            "name": "com.com.velorexe.ScrewHaptics",
+            "processId": 26421,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
